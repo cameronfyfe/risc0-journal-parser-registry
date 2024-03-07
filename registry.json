@@ -1,0 +1,28 @@
+{
+  "parsers": [
+    {
+      "schemaVersion": "1",
+      "profile": {
+        "name": "DELETE-ME",
+        "version": "0.0.0"
+      },
+      "guestCodeId": "",
+      "journalParser": {
+        "protocol": "",
+        "src": ""
+      }
+    },
+    {
+      "schemaVersion": "1",
+      "profile": {
+        "name": "zk-hash-converter",
+        "version": "0.0.0"
+      },
+      "guestCodeId": "96a8bc4a72198728a5395214cdbaf4d3ef66d7da4459d8874d737344ba939f61",
+      "journalParser": {
+        "protocol": "ipfs",
+        "src": "bafybeibvp5bwgahmwdulxla3mmbdgvpafznmcnegafkykpif5z2myiz4r4/zk_hash_converter_verifier.js"
+      }
+    }
+  ]
+}
